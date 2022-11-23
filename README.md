@@ -9,6 +9,9 @@ eggsys/eggsys is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggsts)](https://github.com/eggsys/github-readme-stats)
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Answer: Testing private method using spyOn and Jest](https://dev.to/eggsys/answer-testing-private-method-using-spyon-and-jest-3gff)
