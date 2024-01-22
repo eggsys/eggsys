@@ -2,6 +2,7 @@
 - 👀 I’m interested in Typescript, Infrastructure, Devops
 - 🌱 I’m currently learning [ Cassandra, Rust ]
 - 🚀 check out my rust project --> https://github.com/eggsys/rust-actix-101
+- 📕 my adventure story --> https://medium.com/@rungkrittitachotnimit/my-rust-adventure-part-1-39c918b8e4fe
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 https://www.facebook.com/RungkritTitachocenimit
